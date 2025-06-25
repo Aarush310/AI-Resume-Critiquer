@@ -16,7 +16,8 @@ AI Resume Critiquer is a **Streamlit-powered web app** that allows users to uplo
 
 ## 🖼️ Preview
 
-![App Screenshot](./Screenshot%202025-06-25%20at%2011.00.27%E2%80%AFAM.png)
+
+![image](https://github.com/user-attachments/assets/ef622387-ef70-4497-b6bf-95421bf354c9)
 
 ---
 
@@ -35,3 +36,28 @@ AI Resume Critiquer is a **Streamlit-powered web app** that allows users to uplo
 ```bash
 git clone https://github.com/yourusername/ai-resume-critiquer.git
 cd ai-resume-critiquer
+
+2. Install dependencies
+pip install -r requirements.txt
+3. Add your OpenAI API key
+Create a .env file in the root directory:
+
+OPENAI_API_KEY=your_openai_api_key_here
+4. Run the Streamlit app
+streamlit run app.py
+📁 File Structure
+
+├── app.py                # Main Streamlit application
+├── .env                  # Environment variables (not tracked)
+├── requirements.txt      # Required Python packages
+├── Screenshot.png        # UI Preview Image
+└── README.md             # You're here!
+
+📬 Contact
+
+Made by Aarush Prasad.
+For feedback or collaboration, feel free to reach out!
+
+📜 License
+
+This project is licensed under the MIT License.
