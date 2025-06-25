@@ -38,7 +38,7 @@ git clone https://github.com/yourusername/ai-resume-critiquer.git
 cd ai-resume-critiquer
 
 
-📁 File Structure
+## 📁 File Structure
 
 ├── app.py                # Main Streamlit application
 ├── .env                  # Environment variables (not tracked)
@@ -46,11 +46,11 @@ cd ai-resume-critiquer
 ├── Screenshot.png        # UI Preview Image
 └── README.md             # You're here!
 
-📬 Contact
+ ## 📬 Contact
 
 Made by Aarush Prasad.
 For feedback or collaboration, feel free to reach out!
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
