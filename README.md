@@ -37,14 +37,7 @@ AI Resume Critiquer is a **Streamlit-powered web app** that allows users to uplo
 git clone https://github.com/yourusername/ai-resume-critiquer.git
 cd ai-resume-critiquer
 
-2. Install dependencies
-pip install -r requirements.txt
-3. Add your OpenAI API key
-Create a .env file in the root directory:
 
-OPENAI_API_KEY=your_openai_api_key_here
-4. Run the Streamlit app
-streamlit run app.py
 📁 File Structure
 
 ├── app.py                # Main Streamlit application
