@@ -14,13 +14,6 @@ AI Resume Critiquer is a **Streamlit-powered web app** that allows users to uplo
 
 ---
 
-## 🖼️ Preview
-
-
-![image](https://github.com/user-attachments/assets/ef622387-ef70-4497-b6bf-95421bf354c9)
-
----
-
 ## 🛠️ Tech Stack
 
 - [Streamlit](https://streamlit.io/) – For UI and frontend interaction
@@ -32,11 +25,11 @@ AI Resume Critiquer is a **Streamlit-powered web app** that allows users to uplo
 
 ## 🔧 How to Run Locally
 
-### 1. Clone the repository
+### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/yourusername/ai-resume-critiquer.git
 cd ai-resume-critiquer
-
 
 ## 📁 File Structure
 
@@ -46,11 +39,11 @@ cd ai-resume-critiquer
 ├── Screenshot.png        # UI Preview Image
 └── README.md             # You're here!
 
- ## 📬 Contact
+## 📬 Contact
 
 Made by Aarush Prasad.
 For feedback or collaboration, feel free to reach out!
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. here i want each of the parts clone the repository, file structure and contact to be seperate
