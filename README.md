@@ -29,10 +29,3 @@ AI Resume Critiquer is a **Streamlit-powered web app** that allows users to uplo
 
 ---
 
-## 🔧 How to Run Locally
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/ai-resume-critiquer.git
-cd ai-resume-critiquer
